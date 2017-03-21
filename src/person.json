@@ -1,0 +1,21 @@
+[{
+		"first": "John",
+		"last": "Moe",
+		"town": "Korso",
+		"year": 1953
+	},
+
+	{
+		"first": "Margaret",
+		"last": "Tacher",
+		"town": "London",
+		"year": 1945
+	},
+
+	{
+		"first": "Antero",
+		"last": "Mertaranta",
+		"town": "Helsinki",
+		"year": 1962
+	}
+]
